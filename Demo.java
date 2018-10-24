@@ -16,5 +16,6 @@ public class Demo {
         System.out.println("Цена проданых груш = " + pear.coast());
         System.out.println("Цена проданых абрикос = " + apricot.coast());
         System.out.println("Общая цена проданых фруктов = " + sum);
+        System.out.println("asdasdasd");
     }
 }
